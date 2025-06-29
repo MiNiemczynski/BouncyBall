@@ -16,13 +16,13 @@
   </p>
 
   <ul>
-    <li>Serwer - obsługuje użytkowników oraz umożliwia zapis i wczytywanie gry</li>
-    <li>Klient - łączy się z serwerem, do którego wysyła zapytania i obsługuje grę</li>
+    <li><strong>Serwer</strong> - obsługuje użytkowników oraz umożliwia zapis i wczytywanie gry</li>
+    <li><strong>Klient</strong> - łączy się z serwerem, do którego wysyła zapytania i obsługuje grę</li>
   </ul>
 
   <h2>Uruchomienie</h2>
   <p>
-    Program został stworzony w środowisku NetBeans i zalecane jest jego użycie do otwarcia projektu.
+    Program został stworzony w środowisku <strong>NetBeans</strong> i zalecane jest jego użycie do otwarcia projektu.
     Żeby móc zalogować się na użytkownika i zapisać grę, trzeba najpierw uruchomić <strong>Server.java</strong>, a dopiero potem <strong>Client.java</strong>.
     Serwer może obługiwać wielu użytkowników na raz.
   </p>
